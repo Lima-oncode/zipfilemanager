@@ -1,6 +1,6 @@
 # ZipFileManager
 
-O `ZipFileManager` é uma classe Python que simplifica a manipulação de arquivos zip, incluindo extração e renomeação de arquivos. Este script é útil para automatizar a extração de arquivos `.zip` e a renomeação de arquivos `.EMPRECSV` para `.csv`.
+O `ZipFileManager` é uma classe Python que simplifica a manipulação de arquivos zip, incluindo extração e renomeação de arquivos. Este script é útil para automatizar a extração de arquivos `.zip` `.7z` já realizando a remoção da pasta zipada, se desejado.
 
 ## Estrutura do Projeto
 
