@@ -1,6 +1,7 @@
 import zipfile
 import py7zr
 import os
+from rarfile import RarFile
 
 class ZipFileManager:
     def __init__(self, sys_path, end_path):
